@@ -1,0 +1,27 @@
+body {
+    background: black;
+    color: white;
+    font-family: "fantasy", "Helvetica Neue", Helvetica, sans-serif, "Helvetica Neue", Helvetica, sans-serif;
+
+
+}
+
+header {
+    text-align: center;
+    padding: 50px;
+    font-size: 30px;
+
+
+}
+
+#texto1 {
+    text-align: center;
+}
+
+#intro {
+    text-align: center;
+    padding: 50px;
+}
+
+
+

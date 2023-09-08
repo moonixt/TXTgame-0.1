@@ -1,0 +1,13 @@
+body {
+    background: black;
+    color: white;
+    font-family: "fantasy", "Helvetica Neue", Helvetica, sans-serif, "Helvetica Neue", Helvetica, sans-serif;
+
+
+}
+
+.container{
+    text-align: center;
+    padding: 250px;
+
+}
